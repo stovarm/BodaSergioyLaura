@@ -79,11 +79,13 @@ body {
     color:#000;
     background-color: #b3dbdb;
     transition: all 0.2s;
-    border: solid 0.05rem #6d836e;    
+    border: solid 0.05rem #6d836e;  
+    box-shadow: #000;  
 }
 
 .button:hover {
     background-color: #4095c6;
+    box-shadow: red;
 }
 
 .image_principal {
