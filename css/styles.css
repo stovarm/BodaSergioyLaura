@@ -92,3 +92,7 @@ body {
     grid-row: 4 / 11;
     width: 75vw;
 }
+
+.menu_contact {
+    background-color: red;
+}
