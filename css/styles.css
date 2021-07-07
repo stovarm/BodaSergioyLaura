@@ -80,16 +80,14 @@ body {
     background-color: #b3dbdb;
     transition: all 0.2s;
     border: solid 0.05rem #6d836e;  
-    box-shadow: #000;  
 }
 
 .button:hover {
     background-color: #4095c6;
-    box-shadow: red;
 }
 
 .image_principal {
     grid-column: 1 / 7;
-    grid-row: 3 / 11;
-    width: 80vw;
+    grid-row: 4 / 11;
+    width: 75vw;
 }
